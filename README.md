@@ -48,13 +48,13 @@ Each student record contains:
 
 The application allows users to:
 
-* Add student records
-* Edit existing student records
-* Display all students
-* Generate rank lists using Selection Sort and Insertion Sort
-* Search students using Binary Search
-* Compare sorting performance
-* Analyze algorithm performance for different data arrangements and sizes
+* Add student records.
+* Edit existing student records.
+* Display all students.
+* Generate rank lists using Selection Sort and Insertion Sort.
+* Search students using Binary Search.
+* Compare sorting performance.
+* Analyze algorithm performance for different data arrangements and sizes.
 
 The program supports up to **100 student records**.
 
